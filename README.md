@@ -15,4 +15,4 @@ When updating legal text, ensure the content here matches `core/ui/src/main/res/
 
 ## License
 
-&copy; 2026 LoveCount運営チーム
+&copy; 2026 Pocket Bloom Studio
